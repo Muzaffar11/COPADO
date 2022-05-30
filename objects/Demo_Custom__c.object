@@ -173,6 +173,10 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+	<<<<<<< clickdeploy_556141
+=======
+	
+>>>>>>> master
     <fields>
 	
         <fullName>Field_One__c</fullName>
